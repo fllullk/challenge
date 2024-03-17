@@ -1,1 +1,6 @@
 memory-profiler==0.61.0
+emoji==2.10.1
+line-profiler==4.1.2
+numpy==1.24.4
+pandas==2.0.3
+ujson==5.9.0
